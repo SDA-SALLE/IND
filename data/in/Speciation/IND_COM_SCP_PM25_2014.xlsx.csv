@@ -1,0 +1,73 @@
+SOURCE|PROFID|POLID|SPCID|SPLITFAC|DIVISOR|MASSFRAC
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|POC|0.25|1.0|0.25
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|PEC|0.1|1.0|0.1
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|PSO4|0.19|1.0|0.19
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|PNCOM|0.1|1.0|0.1
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|PSI|0.008|1.0|0.008
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|PK|0.0004|1.0|0.0004
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|PCA|0.0002|1.0|0.0002
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|PFE|0.0009|1.0|0.0009
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|PMOTHR|0.3505|1.0|0.3505
+Distillate Oil Combustion - Simplified|92025.0|PM2_5|PMFINE|0.46|1.0|0.46
+Natural Gas Combustion - Simplified|92048.0|PM2_5|POC|0.247|1.0|0.247
+Natural Gas Combustion - Simplified|92048.0|PM2_5|PEC|0.384|1.0|0.384
+Natural Gas Combustion - Simplified|92048.0|PM2_5|PNO3|0.021|1.0|0.021
+Natural Gas Combustion - Simplified|92048.0|PM2_5|PSO4|0.086|1.0|0.086
+Natural Gas Combustion - Simplified|92048.0|PM2_5|PNCOM|0.0988|1.0|0.0988
+Natural Gas Combustion - Simplified|92048.0|PM2_5|PMOTHR|0.1632|1.0|0.1632
+Natural Gas Combustion - Simplified|92048.0|PM2_5|PMFINE|0.262|1.0|0.262
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|POC|0.49|1.0|0.49
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PEC|0.067|1.0|0.067
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PNH4|0.0044|1.0|0.0044
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PNO3|0.0341|1.0|0.0341
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PSO4|0.126|1.0|0.126
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PNCOM|0.196|1.0|0.196
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PNA|0.0213|1.0|0.0213
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PAL|0.0022|1.0|0.0022
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PSI|0.0028|1.0|0.0028
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PCL|0.0388|1.0|0.0388
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PK|0.0017|1.0|0.0017
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PCA|0.0104|1.0|0.0104
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PTI|0.001|1.0|0.001
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PMN|0.0002|1.0|0.0002
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PFE|0.0009|1.0|0.0009
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PMOTHR|0.0032|1.0|0.0032
+Residential Natural Gas Combustion - Simplified|92063.0|PM2_5|PMFINE|0.2829|1.0|0.2829
+Residual Oil Combustion - Simplified|92072.0|PM2_5|POC|0.01|1.0|0.01
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PEC|0.01|1.0|0.01
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PSO4|0.44|1.0|0.44
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PNCOM|0.004|1.0|0.004
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PCL|0.00313|1.0|0.00313
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PCA|0.000351|1.0|0.000351
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PTI|0.000643|1.0|0.000643
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PMN|3.7e-05|1.0|3.7e-05
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PFE|0.000293|1.0|0.000293
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PMOTHR|0.531546|1.0|0.531546
+Residual Oil Combustion - Simplified|92072.0|PM2_5|PMFINE|0.54|1.0|0.54
+SubBituminousCombustion - Simplified|92084.0|PM2_5|POC|0.0316|1.0|0.0316
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PEC|0.0428|1.0|0.0428
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PNH4|0.00348|1.0|0.00348
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PNO3|0.000571|1.0|0.000571
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PSO4|0.102|1.0|0.102
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PNCOM|0.0127|1.0|0.0127
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PAL|0.0597|1.0|0.0597
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PSI|0.0901|1.0|0.0901
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PCL|0.000629|1.0|0.000629
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PK|0.00464|1.0|0.00464
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PCA|0.0345|1.0|0.0345
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PTI|0.00432|1.0|0.00432
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PMN|0.000283|1.0|0.000283
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PFE|0.0292|1.0|0.0292
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PMOTHR|0.583477|1.0|0.583477
+SubBituminousCombustion - Simplified|92084.0|PM2_5|PMFINE|0.823029|1.0|0.823029
+Wood Fired Boiler - Simplified|92091.0|PM2_5|POC|0.351|1.0|0.351
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PEC|0.0371|1.0|0.0371
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PSO4|0.0653|1.0|0.0653
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PNCOM|0.14|1.0|0.14
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PNA|0.00151|1.0|0.00151
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PMG|0.00142|1.0|0.00142
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PSI|0.136|1.0|0.136
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PCL|0.00535|1.0|0.00535
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PK|0.0887|1.0|0.0887
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PCA|0.00636|1.0|0.00636
+Wood Fired Boiler - Simplified|92091.0|PM2_5|PMOTHR|0.16726|1.0|0.16726
